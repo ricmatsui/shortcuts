@@ -12,11 +12,11 @@ A non-comprehensive list of useful shortcuts
 
 ## Tools
 
-| Name                                                                                                | Description                                           |
-|-----------------------------------------------------------------------------------------------------|-------------------------------------------------------|
-| [Amethyst](https://github.com/ianyh/Amethyst)                                                       | Tiling Window Manager                                 |
-| [Seil](https://github.com/tekezo/Seil/)                                                             | Keyboard Customizer, e.g. use `Caps Lock` as `Escape` |
-| [Quick Tabs](https://chrome.google.com/webstore/detail/quick-tabs/jnjfeinjfmenlddahdjdmgpbokiacbbb) | Switch Chrome tabs with quick search                  |
+| Name                                                                 | Description                                           |
+|----------------------------------------------------------------------|-------------------------------------------------------|
+| [Amethyst](https://github.com/ianyh/Amethyst)                        | Tiling Window Manager                                 |
+| [Seil](https://github.com/tekezo/Seil/)                              | Keyboard Customizer, e.g. use `Caps Lock` as `Escape` |
+| [Quick Tabs](https://github.com/babyman/quick-tabs-chrome-extension) | Switch Chrome tabs with quick search                  |
 
 ## See Also
 
