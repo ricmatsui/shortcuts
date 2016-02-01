@@ -4,6 +4,7 @@ A non-comprehensive list of useful shortcuts
 
 ## Categories
 
+- [Bash](bash/README.md)
 - [Desktop](desktop/README.md)
 - [Sketch](sketch/README.md)
 - [Slack](slack/README.md)
