@@ -29,7 +29,7 @@
 | Shortcut    | Description                                            |
 |-------------|--------------------------------------------------------|
 | `x`         | Toggle selected conversation                           |
-| `s, ...`    | Cycle forwarads through stars for current conversation |
+| `s, ...`    | Cycle forwards through stars for current conversation |
 | `e`         | Archive selected conversations                         |
 | `\`         | Cycle forwards through inbox sections                  |
 | `Shift + \` | Cycle backwards through inbox sections                 |
