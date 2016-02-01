@@ -111,15 +111,15 @@
 
 ### Comments
 
-| Shortcut                                                              | Description              |
-|-----------------------------------------------------------------------|--------------------------|
-| `` ` ``, type code, `` ` ``                                           | Format text as code      |
-| `` \`\`\` ``, type language name, then code on next line `` \`\`\` `` | Format paragraph as code |
-| `[ ]`                                                                 | Make an empty checkbox   |
-| `[x]`                                                                 | Make a checked checkbox  |
-| `@`, type username, Enter                                             | Mention a user           |
-| `:`, type emoji name, Enter                                           | Type an emoji            |
-| `-`, type text                                                        | Make a list              |
+| Shortcut                                                                | Description              |
+|-------------------------------------------------------------------------|--------------------------|
+| `` ` ``, type code, `` ` ``                                             | Format text as code      |
+| ```` ``` ````, type language name, then code on next line ```` ``` ```` | Format paragraph as code |
+| `[ ]`                                                                   | Make an empty checkbox   |
+| `[x]`                                                                   | Make a checked checkbox  |
+| `@`, type username, Enter                                               | Mention a user           |
+| `:`, type emoji name, Enter                                             | Type an emoji            |
+| `-`, type text                                                          | Make a list              |
 
 ### Code
 
